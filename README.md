@@ -1,8 +1,6 @@
 # Text2PyConverter
 Converts text files to Python files
 
-So, you have to start somewhere! 
-
 I have a load of sample python code to use as exercises for learning Python and for some reason, they were all .txt files (100s of them)
 
 Perhaps this was in case of an overly zealous security software, who knows, but to change them all was going to take hours. 
